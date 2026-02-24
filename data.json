@@ -1,0 +1,43 @@
+{
+    "cars": [
+        {
+            "name": "MERCEDES M-CLASS",
+            "class": "SUV",
+            "description": "The Mercedes-Benz M-Class is a mid-size luxury SUV that offers a comfortable ride and plenty of space for passengers and cargo.",
+            "seats": 5,
+            "luggage": 2,
+            "image": "images/mercedes-s-class.png"
+        },
+        {
+            "name": "MERCEDES G-WAGON",
+            "class": "BUSINESS CLASS",
+            "description": "The Mercedes-Benz G-Wagon is a luxury SUV that's perfect for both on and off-road adventures, with its iconic boxy design.",
+            "seats": 5,
+            "luggage": 3,
+            "image": "images/range-rover-sport.png"
+        },
+        {
+            "name": "AUDI Q8",
+            "class": "SUV",
+            "description": "The Audi Q8 is a flagship luxury SUV that combines the elegance of a four-door luxury coupe with the versatility of a large SUV.",
+            "seats": 5,
+            "luggage": 2,
+            "image": "images/bmw-7-series.png"
+        }
+    ],
+    "gallery": [
+        "images/gallery-1.png",
+        "images/gallery-2.png",
+        "images/gallery-3.png",
+        "images/porsche-911.png",
+        "images/tesla-model-s.png",
+        "images/bentley-bentayga.png"
+    ],
+    "testimonials": [
+        {
+            "name": "Annie Rudy",
+            "rating": 5,
+            "description": "I recently bought a car through YourCar and I was blown away by their exceptional service. The staff were friendly and knowledgeable, and they helped me find the perfect car for my needs. I highly recommend YourCar to anyone looking for a luxury car buying experience."
+        }
+    ]
+}
